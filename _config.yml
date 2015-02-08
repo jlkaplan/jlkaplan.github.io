@@ -1,8 +1,6 @@
 # Site settings
 title: Jason Kaplan
-email: your-email@domain.com
-description:
-url: "http://yourdomain.com"
+description: "Cinematographer • Photographer • Editor"
 
 # Build settings
 markdown: kramdown
