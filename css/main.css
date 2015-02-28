@@ -127,7 +127,6 @@ a:hover {
 
 img { width: 100%; }
 
-
 .about-image {
   display: block;
   background: url("/images/jason.jpg") no-repeat center;
@@ -195,7 +194,11 @@ img { width: 100%; }
   min-height: 15em;
 }
 
+
+.work__item-image--editing-reel { background-image: url("/images/editing-reel.jpg"); }
 .work__item-image--cinematography { background-image: url("/images/cinematography.jpg"); }
 .work__item-image--music-video { background-image: url("/images/music-video.jpg"); }
 .work__item-image--commerical { background-image: url("/images/commerical.jpg"); }
 .work__item-image--epic-commerical { background-image: url("/images/epic-commerical.jpg"); }
+.work__item-image--matthew-crowley { background-image: url("/images/matthew-crowley.jpg"); }
+.work__item-image--homeless { background-image: url("/images/homeless.jpg"); }
